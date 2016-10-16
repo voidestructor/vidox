@@ -1,4 +1,4 @@
- ![alt tag](https://github.com/PXgamer/vidox/blob/master/favicon-32x32.png) # vidox
+ ![alt tag](https://github.com/PXgamer/vidox/blob/master/favicon-32x32.png)# vidox
 
 A simple video hosting script using only 1 file.
 
